@@ -41,7 +41,7 @@ A simple and effective language learning app built using Python and Tkinter. It 
 1. Clone this repository or download the ZIP:
 
    ```bash
-   git clone https://github.com/your-username/flashcard-app.git
+   git clone https://github.com/AbdulRehmanMarfani/flashcard-app.git
    cd flashcard-app
    ```
 
